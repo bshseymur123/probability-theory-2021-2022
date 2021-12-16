@@ -5,6 +5,8 @@ materials
 
 **kr_null.pdf** - разбор нулевого варианта контрольной работы и конспект необходимой теории
 
+**ekz_null.pdf** - разбор нулевого варианта экзамена
+
 **consultation1.pdf** - слайды презентации с консультации https://youtu.be/dEyKg_gwtag
 
 homeworks
